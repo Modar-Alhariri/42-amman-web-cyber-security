@@ -1,0 +1,5 @@
+The complete git cycle :
+1-Edit : create or modify file in project 
+2-Add : (staging) prepare modified files to  be commited 
+3-Commit : save the changes to your local repossitory with message to explain changes
+4-push:upload your local commits to remote repository on github on selected branch 
